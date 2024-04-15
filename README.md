@@ -18,11 +18,11 @@ Hello there! Welcome to my solution to the [QR code component challenge on Front
 
 ### Screenshot
 
-![Screenshot of QR Code Component](src/images/qr-code-component-screenshot.png)
+![Screenshot of QR Code Component](public/images/qr-code-component-screenshot.png)
 
 ### Links
 
-- [View live site](https://qr-code-component-seven-chi.vercel.app/)
+- [View live site](https://zachkurfirst-qr-code-component.vercel.app/)
 - [View solution on Frontend Mentor](https://www.frontendmentor.io/solutions/qr-code-component-styled-with-tailwind-nIetA07lcb)
 
 ## My process
